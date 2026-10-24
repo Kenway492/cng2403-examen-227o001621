@@ -1,0 +1,13 @@
+services:
+  web1:
+    image: examen:227o001621
+    ports:
+      - "8081:80"
+  web2:
+    image: examen:227o001621
+    ports:
+      - "8082:80"
+  web3:
+    image: examen:227o001621
+    ports:
+      - "8083:80"
