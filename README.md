@@ -19,3 +19,6 @@ docker build -t examen:227o001621 .
 docker compose up -d
 docker compose ps
 ```
+
+## Visualización
+Se utilizó **Microsoft Excel** para crear el dashboard de ventas (archivo en `visualizacion/dashboard_ventas.xlsx`, exportación en `dashboard_ventas.pdf`). Excel pertenece al ecosistema de **Microsoft (Microsoft 365)**.
